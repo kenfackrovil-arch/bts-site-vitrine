@@ -122,25 +122,46 @@
 }
 .fil{
     text-decoration: underline 2px solid;
+    margin-bottom: 20px;
+    cursor: pointer;
 }
 .fil:hover{
     text-decoration: none;
+    color: red;
+    transition: 5ms;
 }
 .fille{
-    display: flex;
     margin-top: 100px;
+    text-align: center;
+
+}
+.fiill{
+    display: flex;
+    flex-direction: column;
+}
+.mau{
+    display: flex;
+    gap: 30px;
 }
 .footer{
     background-color: black;
     color: white;
-    height: 100vh;
+    height: 30vh;
     display: flex;
     padding-top: 30px;
+    gap: 90px;
 }
 .fo{
     display: flex;
     flex-direction: column;
 }
-.foo{
-    margin-bottom: 55px;
+.ep{
+    margin-top: 15px;
+}
+.pro{
+    cursor: pointer;
+    text-decoration: underline 2px solid;
+}
+.pro:hover{
+    color: blue;
 }
