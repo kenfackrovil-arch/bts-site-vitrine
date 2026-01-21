@@ -170,3 +170,34 @@
 .pro:hover{
     color: blue;
 }
+
+
+.arnold{
+  background-image: url(https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjACcijrCfZBuqDzBWp3qSrBEZCqBUfQVz4CWGHWF91iaEw%3D); 
+  background-size: cover; 
+  height: 100vh;
+  background-position: center;
+}
+.dev{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.de{
+    cursor: pointer;
+
+}
+.de:hover{
+    color: red;
+    transition: 5ms;
+}
+.devv{
+    color: blue;
+    margin-top: 20px;
+}
+.boutton{
+    margin-top: 80px;
+    height: 50px;
+    width: 80px;
+}
