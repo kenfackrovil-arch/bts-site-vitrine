@@ -1,3 +1,2 @@
-# bts-site-vitrine
-index.html:c'est pour kenfack rovil stayel bts sio c
-page.html:c'est pour arnold denis
+index.html: c'est pour kenfack rovil stayel
+page1.html; c'est pour arnlod denis
